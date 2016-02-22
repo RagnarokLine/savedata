@@ -1,5 +1,4 @@
 CanDragWnd = 0
-test
 
 ChatSubWnd_1 = {
 	XPos = 0,
